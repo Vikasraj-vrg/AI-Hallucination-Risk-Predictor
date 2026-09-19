@@ -1,0 +1,99 @@
+question,ai_answer,evidence,label
+"What is the capital of France?","Paris is the capital of France.","Paris is the capital and largest city of France.",0
+"What is the capital of France?","London is the capital of France.","Paris is the capital and largest city of France.",1
+"What is the capital of India?","New Delhi is the capital of India.","New Delhi is the capital of India.",0
+"What is the capital of India?","Mumbai is the capital of India.","New Delhi is the capital of India.",1
+"What is the largest planet?","Jupiter is the largest planet in the Solar System.","Jupiter is the largest planet in the Solar System.",0
+"What is the largest planet?","Earth is the largest planet in the Solar System.","Jupiter is the largest planet in the Solar System.",1
+"What is the smallest planet?","Mercury is the smallest planet in the Solar System.","Mercury is the smallest planet in the Solar System.",0
+"What is the smallest planet?","Mars is the smallest planet in the Solar System.","Mercury is the smallest planet in the Solar System.",1
+"What is the speed of light?","Light travels through vacuum at approximately 300,000 km/s.","Light travels through vacuum at approximately 300,000 km/s.",0
+"What is the speed of light?","Light travels through vacuum at approximately 30,000 km/s.","Light travels through vacuum at approximately 300,000 km/s.",1
+"Who invented the telephone?","Alexander Graham Bell is widely credited with inventing the telephone.","Alexander Graham Bell is widely credited with inventing the telephone.",0
+"Who invented the telephone?","Thomas Edison invented the telephone.","Alexander Graham Bell is widely credited with inventing the telephone.",1
+"Who developed the theory of relativity?","Albert Einstein developed the theories of special and general relativity.","Albert Einstein developed the theories of special and general relativity.",0
+"Who developed the theory of relativity?","Isaac Newton developed the theory of relativity.","Albert Einstein developed the theories of special and general relativity.",1
+"What is Python?","Python is a high-level programming language.","Python is a high-level programming language.",0
+"What is Python?","Python is a relational database management system.","Python is a high-level programming language.",1
+"What is machine learning?","Machine learning is a field of AI where computers learn patterns from data.","Machine learning is a field of AI where computers learn patterns from data.",0
+"What is machine learning?","Machine learning is a method used only to design computer hardware.","Machine learning is a field of AI where computers learn patterns from data.",1
+"What is deep learning?","Deep learning uses neural networks with multiple layers to learn from data.","Deep learning uses neural networks with multiple layers to learn from data.",0
+"What is deep learning?","Deep learning is a type of database used to store images.","Deep learning uses neural networks with multiple layers to learn from data.",1
+"What is HTML?","HTML is a markup language used to structure web pages.","HTML is a markup language used to structure web pages.",0
+"What is HTML?","HTML is a programming language used to manage operating systems.","HTML is a markup language used to structure web pages.",1
+"What is CSS?","CSS is used to style and format web pages.","CSS is used to style and format web pages.",0
+"What is CSS?","CSS is a database query language.","CSS is used to style and format web pages.",1
+"What is SQL?","SQL is used to manage and query relational databases.","SQL is used to manage and query relational databases.",0
+"What is SQL?","SQL is a markup language for creating web page layouts.","SQL is used to manage and query relational databases.",1
+"What is an algorithm?","An algorithm is a step-by-step procedure for solving a problem.","An algorithm is a step-by-step procedure for solving a problem.",0
+"What is an algorithm?","An algorithm is a physical component inside a computer.","An algorithm is a step-by-step procedure for solving a problem.",1
+"What is a database?","A database is an organized collection of data.","A database is an organized collection of data.",0
+"What is a database?","A database is a device used to display computer graphics.","A database is an organized collection of data.",1
+"What is RAM?","RAM is volatile memory used for temporarily storing data and programs.","RAM is volatile memory used for temporarily storing data and programs.",0
+"What is RAM?","RAM is permanent storage used to keep files after power is removed.","RAM is volatile memory used for temporarily storing data and programs.",1
+"What is a CPU?","The CPU executes instructions and performs calculations in a computer.","The CPU executes instructions and performs calculations in a computer.",0
+"What is a CPU?","The CPU is mainly used to permanently store photos and videos.","The CPU executes instructions and performs calculations in a computer.",1
+"What is an operating system?","An operating system manages computer hardware and provides services for applications.","An operating system manages computer hardware and provides services for applications.",0
+"What is an operating system?","An operating system is a type of computer cable.","An operating system manages computer hardware and provides services for applications.",1
+"What is an IP address?","An IP address identifies a device or network interface on a network.","An IP address identifies a device or network interface on a network.",0
+"What is an IP address?","An IP address is a programming language used to build websites.","An IP address identifies a device or network interface on a network.",1
+"What is HTTP?","HTTP is a protocol used for communication between web clients and servers.","HTTP is a protocol used for communication between web clients and servers.",0
+"What is HTTP?","HTTP is a hardware component used to store files.","HTTP is a protocol used for communication between web clients and servers.",1
+"What is a neural network?","A neural network is a computational model inspired by networks of interconnected neurons.","A neural network is a computational model inspired by networks of interconnected neurons.",0
+"What is a neural network?","A neural network is a physical network cable used for internet connections.","A neural network is a computational model inspired by networks of interconnected neurons.",1
+"What is supervised learning?","Supervised learning uses labeled data to learn a relationship between inputs and outputs.","Supervised learning uses labeled data to learn a relationship between inputs and outputs.",0
+"What is supervised learning?","Supervised learning always works without any training data.","Supervised learning uses labeled data to learn a relationship between inputs and outputs.",1
+"What is unsupervised learning?","Unsupervised learning finds patterns or structures in data without labeled target outputs.","Unsupervised learning finds patterns or structures in data without labeled target outputs.",0
+"What is unsupervised learning?","Unsupervised learning requires every training example to have a human-provided label.","Unsupervised learning finds patterns or structures in data without labeled target outputs.",1
+"What is classification in machine learning?","Classification predicts a category or class for an input.","Classification predicts a category or class for an input.",0
+"What is classification in machine learning?","Classification always predicts a continuous numerical value.","Classification predicts a category or class for an input.",1
+"What is regression in machine learning?","Regression is commonly used to predict continuous numerical values.","Regression is commonly used to predict continuous numerical values.",0
+"What is regression in machine learning?","Regression is used only to predict categories such as red or blue.","Regression is commonly used to predict continuous numerical values.",1
+"What is overfitting?","Overfitting occurs when a model learns training data too closely and performs poorly on new data.","Overfitting occurs when a model learns training data too closely and performs poorly on new data.",0
+"What is overfitting?","Overfitting means a model always performs better on unseen data than training data.","Overfitting occurs when a model learns training data too closely and performs poorly on new data.",1
+"What is a feature in machine learning?","A feature is an input variable or measurable property used by a model.","A feature is an input variable or measurable property used by a model.",0
+"What is a feature in machine learning?","A feature is always the final prediction produced by a model.","A feature is an input variable or measurable property used by a model.",1
+"What is a dataset?","A dataset is a collection of data used for analysis or machine learning.","A dataset is a collection of data used for analysis or machine learning.",0
+"What is a dataset?","A dataset is only a computer processor used to execute programs.","A dataset is a collection of data used for analysis or machine learning.",1
+"What is NumPy?","NumPy is a Python library commonly used for numerical computing and arrays.","NumPy is a Python library commonly used for numerical computing and arrays.",0
+"What is NumPy?","NumPy is a web browser developed for searching the internet.","NumPy is a Python library commonly used for numerical computing and arrays.",1
+"What is Pandas?","Pandas is a Python library widely used for data manipulation and analysis.","Pandas is a Python library widely used for data manipulation and analysis.",0
+"What is Pandas?","Pandas is an operating system used to manage computer hardware.","Pandas is a Python library widely used for data manipulation and analysis.",1
+"What is Git?","Git is a distributed version control system.","Git is a distributed version control system.",0
+"What is Git?","Git is a programming language used only for database queries.","Git is a distributed version control system.",1
+"What is GitHub?","GitHub is a platform for hosting and collaborating on software projects and Git repositories.","GitHub is a platform for hosting and collaborating on software projects and Git repositories.",0
+"What is GitHub?","GitHub is a physical processor installed inside a computer.","GitHub is a platform for hosting and collaborating on software projects and Git repositories.",1
+"What is cloud computing?","Cloud computing provides computing resources and services over a network, commonly the internet.","Cloud computing provides computing resources and services over a network, commonly the internet.",0
+"What is cloud computing?","Cloud computing means storing all computer data only on paper.","Cloud computing provides computing resources and services over a network, commonly the internet.",1
+"What is artificial intelligence?","Artificial intelligence involves creating systems that perform tasks associated with human intelligence.","Artificial intelligence involves creating systems that perform tasks associated with human intelligence.",0
+"What is artificial intelligence?","Artificial intelligence is a type of computer monitor.","Artificial intelligence involves creating systems that perform tasks associated with human intelligence.",1
+"What is computer vision?","Computer vision enables computers to process and interpret information from images or videos.","Computer vision enables computers to process and interpret information from images or videos.",0
+"What is computer vision?","Computer vision is a method for physically repairing computer screens.","Computer vision enables computers to process and interpret information from images or videos.",1
+"What is natural language processing?","Natural language processing deals with computational processing of human language.","Natural language processing deals with computational processing of human language.",0
+"What is natural language processing?","Natural language processing is only a technique for cooling computer processors.","Natural language processing deals with computational processing of human language.",1
+"What is a compiler?","A compiler translates source code into another form such as machine code or intermediate code.","A compiler translates source code into another form such as machine code or intermediate code.",0
+"What is a compiler?","A compiler is a computer monitor used to display source code.","A compiler translates source code into another form such as machine code or intermediate code.",1
+"What is an operating system kernel?","The kernel is a core part of an operating system that manages hardware and system resources.","The kernel is a core part of an operating system that manages hardware and system resources.",0
+"What is an operating system kernel?","The kernel is a type of keyboard used to enter commands.","The kernel is a core part of an operating system that manages hardware and system resources.",1
+"What is a binary number system?","The binary number system uses two digits, 0 and 1.","The binary number system uses two digits, 0 and 1.",0
+"What is a binary number system?","The binary number system uses ten digits from 0 through 9 only.","The binary number system uses two digits, 0 and 1.",1
+"What is an array?","An array stores a collection of elements that can be accessed using indices.","An array stores a collection of elements that can be accessed using indices.",0
+"What is an array?","An array is only a type of network protocol.","An array stores a collection of elements that can be accessed using indices.",1
+"What is recursion?","Recursion is a technique in which a function calls itself to solve a problem.","Recursion is a technique in which a function calls itself to solve a problem.",0
+"What is recursion?","Recursion means a program can never call a function more than once.","Recursion is a technique in which a function calls itself to solve a problem.",1
+"What is a stack?","A stack is a data structure that follows the last-in, first-out principle.","A stack is a data structure that follows the last-in, first-out principle.",0
+"What is a stack?","A stack always follows the first-in, first-out principle.","A stack is a data structure that follows the last-in, first-out principle.",1
+"What is a queue?","A queue is a data structure that commonly follows the first-in, first-out principle.","A queue is a data structure that commonly follows the first-in, first-out principle.",0
+"What is a queue?","A queue always removes the newest element first.","A queue is a data structure that commonly follows the first-in, first-out principle.",1
+"What is binary search?","Binary search finds an item efficiently in a sorted collection by repeatedly dividing the search range.","Binary search finds an item efficiently in a sorted collection by repeatedly dividing the search range.",0
+"What is binary search?","Binary search requires the collection to be randomly shuffled after every comparison.","Binary search finds an item efficiently in a sorted collection by repeatedly dividing the search range.",1
+"What is sorting?","Sorting arranges data according to a chosen order.","Sorting arranges data according to a chosen order.",0
+"What is sorting?","Sorting means deleting every item from a dataset.","Sorting arranges data according to a chosen order.",1
+"What is a database primary key?","A primary key uniquely identifies records in a database table.","A primary key uniquely identifies records in a database table.",0
+"What is a database primary key?","A primary key must contain the same value for every row.","A primary key uniquely identifies records in a database table.",1
+"What is normalization in databases?","Database normalization organizes data to reduce redundancy and improve data integrity.","Database normalization organizes data to reduce redundancy and improve data integrity.",0
+"What is normalization in databases?","Database normalization means intentionally duplicating every database record.","Database normalization organizes data to reduce redundancy and improve data integrity.",1
+"What is encryption?","Encryption transforms information into a form intended to prevent unauthorized access.","Encryption transforms information into a form intended to prevent unauthorized access.",0
+"What is encryption?","Encryption makes all information publicly readable without any protection.","Encryption transforms information into a form intended to prevent unauthorized access.",1
+"What is a firewall?","A firewall controls or filters network traffic according to security rules.","A firewall controls or filters network traffic according to security rules.",0
+"What is a firewall?","A firewall is a programming language used to write mobile applications.","A firewall controls or filters network traffic according to security rules.",1
